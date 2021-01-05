@@ -6,11 +6,11 @@ name = "pypi"
 [packages]
 mwoauth = "*"
 requests = "*"
-mysql-connector = "*"
 Flask = "*"
 PyYAML = "*"
 LexData = "*"
 Flask-MySQLdb = "*"
+mysql-connector-python = "*"
 
 [dev-packages]
 

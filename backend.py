@@ -208,7 +208,7 @@ class Match:
 
 
 # Change dir to folder of script, to allow use of relative paths
-os.chdir(os.path.dirname(sys.argv[0]))
+# os.chdir(os.path.dirname(sys.argv[0]))
 
 db = MachtSinnDB()
 # Run Query #
